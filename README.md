@@ -1,2 +1,5 @@
 # hello-nodejs
-A simple nodejs repo
+This a simple nodejs app
+
+* First point
+
